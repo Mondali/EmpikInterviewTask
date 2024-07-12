@@ -2,6 +2,9 @@
 
 ## Change Log
 
+### v1.0.1
+- Changed user calculation precision
+
 ### v1.0.0
 - Initial version of the service.
 

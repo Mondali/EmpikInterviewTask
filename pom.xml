@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.empik</groupId>
     <artifactId>EmpikInterviewTask</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>EmpikInterviewTask</name>
     <description>EmpikInterviewTask</description>
     <url/>

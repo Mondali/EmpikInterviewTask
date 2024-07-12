@@ -26,7 +26,7 @@ public class UserMapper {
         if (followers == 0) {
             return BigDecimal.ZERO;
         }
-        return BigDecimal.valueOf(6).divide(BigDecimal.valueOf(followers), 2, RoundingMode.HALF_UP)
+        return BigDecimal.valueOf(6).divide(BigDecimal.valueOf(followers), 8, RoundingMode.HALF_UP)
                 .multiply(BigDecimal.valueOf(2 + publicRepos));
     }
 
